@@ -61,7 +61,7 @@
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                   <div class="panel-body">
-                    Images are stored as Blob type, to pass the image to JSON, we have two options, either passing its link or encoding the image to base46 encoding while representation and decoding the image while storage, option two is choosen here for the sake of demonstration.
+                    Images are stored as Blob type, to pass the image to JSON, we have two options, either passing its link or encoding the image to base64 encoding while representation and decoding the image while storage, option two is choosen here for the sake of demonstration.
                   </div>
                 </div>
               </div>
